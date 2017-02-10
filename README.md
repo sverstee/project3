@@ -1,7 +1,7 @@
 # project3
 project3 master and dev
-<h1> This is a H1 Tag
-<h2> This is H2
+<h1> This is a H1 Tag </h1>
+<h2> This is H2 </h2>
 1.  Item1 
 2.  Item 2
 3.  Item 3 
