@@ -6,6 +6,10 @@ project3 master and dev
 2.  Item 2
 3.  Item 3 
 
+![GitHub Logo](/Images/logo.png)
+Format: ![Alt Text] (url)
+
+
 * unordered list
     * Create an unordered sublist
 

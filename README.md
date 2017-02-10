@@ -6,7 +6,7 @@ project3 master and dev
 2.  Item 2
 3.  Item 3 
 
-![GitHub Logo](/Images/logo.png)
+![GitHub Logo](/Images/icon.png)
 Format: ![Alt Text] (url)
 
 
